@@ -1,0 +1,67 @@
+body{
+    margin:auto
+}
+
+a{
+    text-decoration: none;
+}
+
+
+header{
+    height: 60px;
+    /*border: 5px solid hotpink;*/
+    background-color: #a34e00;
+}
+
+#name{
+    font-size: 25px;
+    color: whitesmoke;
+    
+}
+
+.textcenter{
+    text-align: center;
+    
+}
+
+/*imgsection*/
+#priyaimg > img{
+    height: 330px; 
+    width: 15%
+        
+}
+
+.colorbackground{
+    background-color: rgba(9, 9, 235, 0.312);
+}
+
+#fontsize{
+    font-size:19px;
+}
+
+footer{
+    height:90px;
+   /* border:5px solid hotpink*/
+    background-color:rgb(50, 39, 39);
+    
+}
+
+#social{
+    float:left;
+    margin-top: 3px;
+    margin-left:15px;
+}
+
+.siconsize{
+    width:50px;
+}
+
+
+
+#designedby{
+    font-size:20px; 
+    color:white;
+    margin-top: 19px;
+    margin-right:15px;
+    float: right;
+}
