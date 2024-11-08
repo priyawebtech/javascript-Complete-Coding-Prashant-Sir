@@ -1,3 +1,79 @@
 youtube video link of javascript:  https://www.youtube.com/watch?v=cpoXLj24BDY
 Javascript pdf notes link:  file:///C:/Users/Priya/Downloads/JavaScript%20Notes.pdf
 Github code:  https://github.com/Complete-Coding/JavaScript_Complete_YouTube
+
+
+document.body.innerHTML = 'I am learning Js'
+'I am learning Js'
+
+myntra calculaiton:
+((2499 - (41/100*2499)) - 29 + (15599 - (10/100*15599)) - 272 +25+20) * 118/100
+<18003.8618
+//18% is gst. 118/100
+
+
+use of Math.round()
+//18003.8618
+// Math.round(18003.8618)
+<18004
+
+'₹' + ((2499 - (41/100*2499)) - 29 + (15599 - (10/100*15599)) - 272 +25+20) * 118/100
+'₹18003.8618'
+
+///using ``
+`₹ ${ ((2499 - (41/100*2499)) - 29 + (15599 - (10/100*15599)) - 272 +25+20) * 118/100}`
+'₹ 18003.8618'
+
+At a restaurant you ate: 1 Dal ₹ 100, 2 Roti ₹10
+each, 1 Ice Cream ₹30, calculate and display the
+final bill amount.
+
+'₹'+ ((1*100) + (2*10) + (1*30)) 
+'₹150'
+`Yor're final bill is ₹ ${((1*100) + (2*10) + (1*30))}`  
+"Yor're final bill is ₹ 150"
+
+
+Calculate 18% GST on iPhone15 ₹79,990 and 2
+Air pods Pro ₹24990 each.
+
+`Your GST Tax amount is ₹${(1*79990 + 2*24990) *18/100}`
+'Your GST Tax amount is ₹23394.6'
+
+
+Create Order Summary String for our Myntra Cart. 
+`Your final Myntra bag amount is ₹ ${ ((2499 - (41/100*2499)) - 29 + (15599 - (10/100*15599)) - 272 +25+20) * 118/100}`
+'Your final Myntra bag amount is ₹ 18003.8618'
+`Your final Myntra bag amount is ₹ ${Math.round (((2499 - (41/100*2499)) - 29 + (15599 - (10/100*15599)) - 272 +25+20) * 118/100)}`
+'Your final Myntra bag amount is ₹ 18004'
+
+???????????????????????????????????????????????
+17 Script Tag . Console Methods: log, warn, error, clear
+
+console.log('I am Priya');
+console.clear()
+
+<to clear the console
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Pratice exericse
+
+Practice Exercise
+JavaScript With HTML & CSS
+1. Create a button with text click
+2. Create 2 buttons with class and id
+3. Create a paragraph
+4. Add colors to two buttons
+5. Add proper html structure
+6. Change page title
+7. Try to copy the given design on the bottom
+8. Add script element to page to show welcome alert
+9. Add onclick alert on Add to Bag and ❤ Wishlist
+buttons
+
+
+check this github code of sir
+3 HTML CSS and JS: 3 HTML CSS and JS/Chapter Code
+
+
+
